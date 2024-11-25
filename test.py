@@ -8,7 +8,7 @@ from pydub import AudioSegment
 import pyttsx3
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBnEQMl-hbEuOY6Mn6hnpHgzmP9uU4AY0E")
+genai.configure(api_key="myapi")
 
 engine = pyttsx3.init()
 engine.setProperty("rate", 145)
