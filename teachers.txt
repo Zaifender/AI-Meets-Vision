@@ -1,0 +1,39 @@
+Administration:- 
+Principal: Reverend Father Vivian Fernandez
+Vice Principal: Reverend Sister Mamta
+
+teachers:-
+Shakun Saxena Sir: Computer teacher
+Arun Rajput Sir: Maths teacher
+Ravi Srivastav Sir: Computer teacher
+Akash Sir: Physical education teacher
+Manju Sharma Mam: Computer for junior classes
+Harpreet Kaur Mam: Computer science teacher
+Purnima Mani Tripathi Mam: Biology teacher
+Renu Arora Mam: Maths teacher
+Vaishali Tandon Mam: Physics teacher
+Nishi Popli Mam: Chemistry teacher
+Devendra Sir: Physical education teacher
+Rita Bernard Mam: Hindi teacher
+Helen Gabriel Mam: English teacher
+Ivan D'Souza sir: Social Science teacher
+Viji Alex Mam: English teacher
+Ranjeet Kaur Mam: Hindi teacher
+Poonam Rastogi Mam: Hindi teacher
+Rupanjali Kamboj Mam: Science teacher
+Ashwini Catherine Mam: Dance teacher
+Gulafsha Mam: Social Science teacher
+Amit Kumar Sir: Maths teacher
+Hemlata Gangwar Mam: Hindi teacher
+Meenakshi Rawat Mam: Maths teacher
+Shivani Soni Mam: Maths teacher
+Nidhi Verma Mam: English teacher
+Vandana Chauhan Mam: English teacher
+Richa Rawat Mam: Biology teacher
+Bharti Singh Mam: Social Science teacher
+Sutapa Bhattacharya Mam:
+Sonal Agarwal Mam:
+Deepti Arora Mam:
+Jyoti Verma Mam:
+Arti Verma Mam:
+Priyanka Chaturvedi Mam:
