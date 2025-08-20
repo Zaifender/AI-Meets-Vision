@@ -57,13 +57,13 @@ Python Libraries Used:
 
 📂 Project Structure
 
-text
 smart-glasses/
-│── main.py              # Main Python script
-│── requirements.txt     # Python dependencies
-│── README.md            # Project documentation
-│── /modules/            # Additional helper scripts
-│── /samples/            # Sample images & outputs
+├── main.py              # Main Python script
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+├── modules/             # Additional helper scripts
+└── samples/             # Sample images & outputs
+
 
 🎯 Skills Learned
 
