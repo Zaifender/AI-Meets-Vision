@@ -1,4 +1,5 @@
 👓 Smart Glasses to Assist the Visually Impaired
+
 An AI-powered assistive device designed to help blind and visually impaired people by describing the world around them using a camera, AI (Gemini API), and text‑to‑speech narration.
 
 <img src="https://github.com/user-attachments/assets/5b3bf466-d1f3-4d61-9b1b-167c133b733a" alt="Screenshot 2025-08-20 222839" width="642" height="340" />
