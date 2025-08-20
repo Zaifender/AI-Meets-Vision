@@ -103,6 +103,8 @@ Run the project:
 
     Learned how AI + IoT technology can impact real lives
 
+[View Review Images](https://github.com/Zaifender/AI-Meets-Vision/tree/main/reviews)
+
 🌍 Impact
 
 This project demonstrates how technology can empower visually impaired individuals by providing greater independence and awareness of their surroundings.
