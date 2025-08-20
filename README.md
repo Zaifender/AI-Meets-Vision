@@ -107,8 +107,8 @@ Run the project:
 
 This project demonstrates how technology can empower visually impaired individuals by providing greater independence and awareness of their surroundings.
 It serves as an innovative example of combining AI + hardware + voice technology in the field of assistive technology.
-📸 Demo Screenshot / Flow
+📸 Demo
+<img width="960" height="540" alt="Screenshot 2025-01-07 112219" src="https://github.com/user-attachments/assets/fbfef7e8-61ac-4e36-8a8c-92e582c8c84a" />
 
-(Add an image or flowchart here if you have one)
 ![Project Demo 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit PRs.
