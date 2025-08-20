@@ -65,24 +65,6 @@ smart-glasses/
 │── /modules/            # Additional helper scripts
 │── /samples/            # Sample images & outputs
 
-🚀 Setup & Installation
-
-    Clone this repo:
-
-bash
-git clone https://github.com/yourusername/smart-glasses-ai.git
-cd smart-glasses-ai
-
-Install dependencies:
-
-bash
-pip install -r requirements.txt
-
-Run the project:
-
-    bash
-    python3 main.py
-
 🎯 Skills Learned
 
     Raspberry Pi setup & camera integration
