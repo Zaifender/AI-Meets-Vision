@@ -55,16 +55,6 @@ Python Libraries Used:
 
     Narration → Description played via speaker/earphones for the user.
 
-📂 Project Structure
-
-smart-glasses/
-├── main.py              # Main Python script
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
-├── modules/             # Additional helper scripts
-└── samples/             # Sample images & outputs
-
-
 🎯 Skills Learned
 
     Raspberry Pi setup & camera integration
