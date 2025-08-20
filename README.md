@@ -103,7 +103,7 @@ Run the project:
 
     Learned how AI + IoT technology can impact real lives
 
-[View Review Images](https://github.com/Zaifender/AI-Meets-Vision/tree/main/reviews)
+[Exhibition Review Images](https://github.com/Zaifender/AI-Meets-Vision/tree/main/reviews)
 
 🌍 Impact
 
