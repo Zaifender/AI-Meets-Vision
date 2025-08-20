@@ -96,6 +96,8 @@ Run the project:
     AI API (Gemini) integration for real-world applications
 
 🏆 Achievements
+![1 (1)](https://github.com/user-attachments/assets/05f7f53e-6238-4189-8020-9408ceb20bb3)
+
 
     Successfully demonstrated in school exhibition
 
