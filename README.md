@@ -2,6 +2,8 @@
 
 <img width="428" height="227" alt="Screenshot 2025-08-20 222839" src="https://github.com/user-attachments/assets/5b3bf466-d1f3-4d61-9b1b-167c133b733a" />
 
+
+
     An AI-powered assistive device designed to help blind and visually impaired people by describing the world around them using a camera, AI (Gemini API), and text‑to‑speech narration.
 
 📌 Project Vision
